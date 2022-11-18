@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="shopinnadmin/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-803344889/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-803344889/react-native-community_async-storage.iml" group="shopinnadmin/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1816994500/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1816994500/react-native-community_masked-view.iml" group="shopinnadmin/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-115659334/react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/-115659334/react-native-community_toolbar-android.iml" group="shopinnadmin/react-native-community_toolbar-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2122384950/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/2122384950/react-native-firebase_app.iml" group="shopinnadmin/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1601599123/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1601599123/react-native-gesture-handler.iml" group="shopinnadmin/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-841109882/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-841109882/react-native-image-crop-picker.iml" group="shopinnadmin/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-222378669/react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-222378669/react-native-image-picker.iml" group="shopinnadmin/react-native-image-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2073417051/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-2073417051/react-native-linear-gradient.iml" group="shopinnadmin/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1194570059/react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/1194570059/react-native-push-notification.iml" group="shopinnadmin/react-native-push-notification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/34412457/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/34412457/react-native-reanimated.iml" group="shopinnadmin/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2105133508/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2105133508/react-native-safe-area-context.iml" group="shopinnadmin/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1255607980/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1255607980/react-native-screens.iml" group="shopinnadmin/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1513440252/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1513440252/react-native-svg.iml" group="shopinnadmin/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1402888739/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1402888739/react-native-vector-icons.iml" group="shopinnadmin/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopinnadmin.iml" filepath="$PROJECT_DIR$/.idea/modules/shopinnadmin.iml" group="shopinnadmin" />
+    </modules>
+  </component>
+</project>

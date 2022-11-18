@@ -1,0 +1,61 @@
+{
+  "name": "shopinnadmin",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-community/push-notification-ios": "^1.7.4",
+    "@react-native-community/toolbar-android": "^0.1.0-rc.2",
+    "@react-native-firebase/app": "^8.4.7",
+    "@react-navigation/material-bottom-tabs": "^5.3.10",
+    "moment": "^2.29.1",
+    "react": "16.11.0",
+    "react-devtools": "^4.10.0",
+    "react-native": "0.62.2",
+    "react-native-gesture-handler": "^1.8.0",
+    "react-native-image-crop-picker": "^0.32.3",
+    "react-native-image-picker": "^2.3.4",
+    "react-native-keyboard-aware-scroll-view": "^0.9.3",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-modal-picker": "0.0.16",
+    "react-native-modal-selector": "^2.0.3",
+    "react-native-multiple-select": "^0.5.6",
+    "react-native-paper": "^3.12.0",
+    "react-native-push-notification": "github:zo0r/react-native-push-notification#dev",
+    "react-native-qrcode-svg": "^6.0.6",
+    "react-native-reanimated": "^1.13.2",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-screens": "^1.0.0-alpha.23",
+    "react-native-svg": "^12.1.0",
+    "react-native-vector-icons": "^6.7.0",
+    "react-navigation": "^4.4.3",
+    "react-navigation-material-bottom-tabs": "^2.3.3",
+    "react-navigation-stack": "^2.10.1",
+    "react-navigation-tabs": "^2.10.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.7",
+    "@babel/runtime": "^7.12.5",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.14.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-test-renderer": "16.11.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

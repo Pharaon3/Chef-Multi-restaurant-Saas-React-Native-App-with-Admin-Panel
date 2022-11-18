@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>279503505326-0r484dgjn6t3a78kmha1q5hgcupaognf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.279503505326-0r484dgjn6t3a78kmha1q5hgcupaognf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCerosvKoXrGCWnZj4Iue-YlTxafQ5Glwk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>279503505326</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.shopinnadmin</string>
+	<key>PROJECT_ID</key>
+	<string>shopinn-store</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopinn-store.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:279503505326:ios:ce29be34254ebd9ec5aa3f</string>
+	<key>DATABASE_URL</key>
+	<string>https://shopinn-store.firebaseio.com</string>
+</dict>
+</plist>

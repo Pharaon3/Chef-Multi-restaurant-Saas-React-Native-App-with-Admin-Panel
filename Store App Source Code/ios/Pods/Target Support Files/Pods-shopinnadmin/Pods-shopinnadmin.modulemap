@@ -1,0 +1,6 @@
+module Pods_shopinnadmin {
+  umbrella header "Pods-shopinnadmin-umbrella.h"
+
+  export *
+  module * { export * }
+}

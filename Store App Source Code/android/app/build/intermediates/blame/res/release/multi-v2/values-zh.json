@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/basith/Desktop/Ellixtra/shopinn-store/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/basith/.gradle/caches/transforms-2/files-2.1/d3b2fae8d9cd2549a21cc90bee0cce6b/jetified-ucrop-2.2.6-native/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,109,163",
+                        "endColumns": "53,53,46",
+                        "endOffsets": "104,158,205"
+                    }
+                }
+            ]
+        }
+    ]
+}

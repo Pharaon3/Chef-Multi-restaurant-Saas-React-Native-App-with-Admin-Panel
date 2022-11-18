@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266291793850",
+    "firebase_url": "https://shopinn-menu.firebaseio.com",
+    "project_id": "shopinn-menu",
+    "storage_bucket": "shopinn-menu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266291793850:android:f64c59ce93fc6a71a41783",
+        "android_client_info": {
+          "package_name": "store.shpinn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266291793850-g2hibogr755sgrjru9fabqrtccp3g8qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiRyKC4dy48scSWWYsaFj2GFsMcXuJCxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266291793850-g2hibogr755sgrjru9fabqrtccp3g8qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
